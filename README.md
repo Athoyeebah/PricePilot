@@ -1,4 +1,4 @@
-# PriceCraft v2.0 — Pricing Strategy Builder
+# PricePilot v1.0 — Pricing Strategy Builder
 
 A full-featured React app for building, calculating, and comparing pricing strategies.
 
