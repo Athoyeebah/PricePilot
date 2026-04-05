@@ -1,2 +1,1 @@
-# PricePilot
-Price Intelligence Platform
+
