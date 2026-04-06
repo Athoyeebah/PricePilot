@@ -163,7 +163,8 @@ export function StepCalculate({ industry, product, selected, saved, addSaved, on
       {cost && parseFloat(cost) > 0 && (
         <div>
           <div style={{ fontSize: 10, color: '#333', letterSpacing: '.1em', marginBottom: 14 }}>
-            // LIVE PRICE COMPARISON — {selected.length} STRATEGIES
+                {/* LIVE PRICE COMPARISON — {selected.length} STRATEGIES */}
+            
           </div>
           {selected.map((s) => {
             const price = calcPrice(s, cost, markup, validComps);
