@@ -1,4 +1,4 @@
-# PricePilot v1.0 — Pricing Strategy Builder
+# PricePilot v1.0 — Pricing Intelligence Platform
 
 A full-featured React app for building, calculating, and comparing pricing strategies.
 
